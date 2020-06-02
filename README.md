@@ -35,7 +35,8 @@ $ vtex test e2e
 
 ### Advanced
 To make your test suite reusable across *accounts* and *workspaces*, you can take advantage of the `<account>` and `<workspace>` placeholders in your [cypress.json "baseUrl"](cypress.json):
-```json
+```jsonc
+// cypress.json
 {
   "baseUrl": "https://<workspace>--<account>.myvtex.com",
   ...
@@ -63,7 +64,8 @@ We provide a sample custom Cypress command to set the required cookie in this [f
 Should you wish to write your integration tests in TypeScript, you will need a `tsconfig.json` file. This file **must** be inside the `cypress` folder. We provide a sample TypeScript configuration [here](cypress/tsconfig.json).
 
 Also note that if your `pluginsFile` or `supportFile` are written in TypeScript, you need to configure their path in your [cypress.json](cypress.json) file, e.g.:
-```json
+```jsonc
+// cypress.json
 {
   ...
   "pluginsFile": "cypress/plugins/index.ts",
@@ -74,7 +76,8 @@ Also note that if your `pluginsFile` or `supportFile` are written in TypeScript,
 
 ## Test callbacks
 Your app may choose to be notified whenever its tests are run. You can choose *spec completion callbacks* and/or *test completion callbacks* through the following properties in your [cypress.json](cypress.json) file:
-```json
+```jsonc
+// cypress.json
 {
   ...
   "specCallback": true,
@@ -107,7 +110,8 @@ This script will resolve the `baseUrl` configured in your [cypress.json](cypress
   - `./cypress-local.sh open`
   - `./cypress-local.sh run --headless --config pageLoadTimeout=100000,watchForFileChanges=false`
 - *(Optional)* set up [package.json](package.json) scripts:
-  ```json
+  ```jsonc
+  // package.json
   {
     ...
     "scripts": {
