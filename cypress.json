@@ -4,6 +4,6 @@
   "completeCallback": true,
   "viewportWidth": 1920,
   "viewportHeight": 1080,
-  "pluginsFile": "cypress/plugins/index.ts",
+  "pluginsFile": "cypress/plugins/index.js",
   "supportFile": "cypress/support/index.ts"
 }

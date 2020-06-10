@@ -15,6 +15,6 @@
 /**
  * @type {Cypress.PluginConfig}
  */
-export default (on: Cypress.PluginEvents, config: Cypress.PluginConfigOptions) => {
+module.exports = (on, config) => {
 
 }
