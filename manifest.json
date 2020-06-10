@@ -1,0 +1,17 @@
+{
+  "name": "cypress-example",
+  "vendor": "vtex",
+  "version": "0.0.0",
+  "title": "Cypress Example",
+  "description": "Reference app for writing end to end tests",
+  "dependencies": {
+    "vtex.tester-hub": "0.x"
+  },
+  "builders": {
+    "node": "6.x",
+    "cypress": "0.x"
+  },
+  "credentialType": "absolute",
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

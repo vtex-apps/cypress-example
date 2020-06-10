@@ -1,0 +1,33 @@
+{
+  "memory": 256,
+  "ttl": 10,
+  "timeout": 2,
+  "minReplicas": 1,
+  "maxReplicas": 1,
+  "routes": {
+    "onSpecComplete": {
+      "path": "/_v/e2e_spec_callback/*spec",
+      "public": false,
+      "access": "authorized",
+      "policies": [
+        {
+          "effect": "allow",
+          "actions": ["post"],
+          "principals": ["vrn:apps:*:*:*:app/vtex.tester-hub@*"]
+        }
+      ]
+    },
+    "onTestComplete": {
+      "path": "/_v/e2e_complete_callback/:testId",
+      "public": false,
+      "access": "authorized",
+      "policies": [
+        {
+          "effect": "allow",
+          "actions": ["post"],
+          "principals": ["vrn:apps:*:*:*:app/vtex.tester-hub@*"]
+        }
+      ]
+    }
+  }
+}
