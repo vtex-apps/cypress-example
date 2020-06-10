@@ -136,10 +136,10 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@vtex/api@6.30.1":
-  version "6.30.1"
-  resolved "https://registry.yarnpkg.com/@vtex/api/-/api-6.30.1.tgz#e71ebed6cff6bfdec928535133ffe6d0522797ae"
-  integrity sha512-HfE5Jxii3daU8s3B0FS/5fKeoObkqZkdGBSz8iwWvhYN+nCrvJWm7J0KT5MyGNphp0E3ShxoHQhF46RUG8yXVA==
+"@vtex/api@6.31.1":
+  version "6.31.1"
+  resolved "https://registry.yarnpkg.com/@vtex/api/-/api-6.31.1.tgz#dcb7bddb0b77d6a1ad936da0a6bbc42d577b7883"
+  integrity sha512-KogyA3ZL4behY/8HG7SormxbcOnETJAre6sWkUvSbl1SYLoeL/znvMigzp5812lGDxqjwcIxW6AdFP2Qla+8zw==
   dependencies:
     "@types/koa" "^2.11.0"
     "@types/koa-compose" "^3.2.3"
@@ -1488,7 +1488,7 @@ signal-exit@^3.0.0:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-stats-lite@vtex/node-stats-lite#dist:
+"stats-lite@github:vtex/node-stats-lite#dist":
   version "2.2.0"
   resolved "https://codeload.github.com/vtex/node-stats-lite/tar.gz/1b0d39cc41ef7aaecfd541191f877887a2044797"
   dependencies:
