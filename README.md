@@ -44,7 +44,7 @@ To make your test suite reusable across *accounts* and *workspaces*, you can tak
 ```
 Then make sure to use relative paths in your `cy.visit()` calls.
 
-Note, however, that this isn't a valid *URL* and your tests won't work should you use `cypress open` or `cypress run`. Refer to the [Running Cypress locally](#running-cypress-locally) section for a work around.
+Note, however, that this isn't a valid *URL* and your tests won't work when you use `cypress open` or `cypress run`. Refer to the [Running Cypress locally](#running-cypress-locally) section for a work around.
 
 ## Authenticating to *.myvtex.com
 Since `myvtex.com` is an authenticated domain, tests against it need to set the `VtexIdclientAutCookie` cookie, otherwise they will land on the login page. 
@@ -61,14 +61,13 @@ When running Cypress locally, you must provide the *token* yourself through the 
 We provide a sample custom Cypress command to set the required cookie in this [file](cypress/support/vtex.ts). Tests must then call this command before attempting to visit a `*.myvtex.com` page.
 
 ## Notes on using TypeScript
-Should you wish to write your integration tests in TypeScript, you will need a `tsconfig.json` file. This file **must** be inside the `cypress` folder. We provide a sample TypeScript configuration [here](cypress/tsconfig.json).
+If you wish to write your integration tests in TypeScript, you will need a `tsconfig.json` file. This file **must** be inside the `cypress` folder. We provide a sample TypeScript configuration [here](cypress/tsconfig.json).
 
-Also note that if your `pluginsFile` or `supportFile` are written in TypeScript, you need to configure their path in your [cypress.json](cypress.json) file, e.g.:
+Note that a `.ts` `pluginsFile` is **not currently supported** and, if you need a `pluginsFile`, you should use JavaScript. Additionally, don't forget to update your `supportFile` path in your [cypress.json](cypress.json) file if you choose to write it in TypeScript, e.g.:
 ```jsonc
 // cypress.json
 {
   ...
-  "pluginsFile": "cypress/plugins/index.ts",
   "supportFile": "cypress/support/index.ts",
   ...
 }
