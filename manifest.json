@@ -1,7 +1,7 @@
 {
   "name": "cypress-example",
   "vendor": "vtexus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Cypress Example",
   "description": "Reference app for writing end to end tests",
   "dependencies": {
