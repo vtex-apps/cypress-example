@@ -1,6 +1,6 @@
 {
   "name": "cypress-example",
-  "vendor": "vtex",
+  "vendor": "vtexus",
   "version": "0.0.1",
   "title": "Cypress Example",
   "description": "Reference app for writing end to end tests",
@@ -12,6 +12,14 @@
     "cypress": "0.x"
   },
   "credentialType": "absolute",
-  "policies": [],
+  "policies": [
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "kubernetes.default.svc.cluster.local",
+        "path": "*"
+      }
+    }
+  ],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
