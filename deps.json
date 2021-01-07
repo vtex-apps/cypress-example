@@ -1,0 +1,1984 @@
+{
+  "compasso.correioslog@0.3.5": [
+    "infra:service-node@2",
+    "vtex.admin@1.18.2",
+    "vtex.graphql-server@1.62.4",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "gocommerce.accounts-graphql@0.10.0": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "gocommerce.sitemap-app@1.2.1": [
+    "gocommerce.accounts-graphql@0.10.0",
+    "infra:service-node@6"
+  ],
+  "infra:service-dotnet-sdk@2": [],
+  "infra:service-dotnet@0": [],
+  "infra:service-dotnet@1": [],
+  "infra:service-dotnet@2": [],
+  "infra:service-node-browser@6": [],
+  "infra:service-node-cypress@6": [],
+  "infra:service-node@2": [],
+  "infra:service-node@3": [],
+  "infra:service-node@5": [],
+  "infra:service-node@6": [],
+  "storecomponents.checkout-ui-settings@0.1.2": [
+    "vtex.checkout-ui-settings-server@0.2.1",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "storecomponents.cr-roulette@0.1.4": [
+    "infra:service-node@5",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "storecomponents.rota-calendar-integration@0.0.15": [
+    "infra:service-node@5"
+  ],
+  "storecomponents.zoom-interviews@0.0.26": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.ab-tester@0.16.6": [
+    "infra:service-node@5"
+  ],
+  "vtex.add-to-cart-button@0.13.3": [
+    "vtex.checkout-resources@0.32.0",
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.order-items@0.7.6",
+    "vtex.order-manager@0.8.5",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.address-form@3.12.4": [
+    "vtex.checkout@0.6.0",
+    "vtex.country-codes@1.1.2",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.address-form@4.6.3": [
+    "vtex.country-codes@2.0.1",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.admin-apps@3.5.7": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.apps-graphql@3.1.0",
+    "vtex.billing@0.14.1",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rich-text@0.10.1",
+    "vtex.slider@0.8.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-channels@4.7.0": [
+    "vtex.admin-graphql@2.11.0",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin@3.12.0",
+    "vtex.channels-components@5.4.0",
+    "vtex.channels-graphql@4.14.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.paginated-table@0.10.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-collections@0.137.0": [
+    "vtex.admin-errors@0.3.0",
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.catalog-graphql@1.80.6",
+    "vtex.messages@1.60.2",
+    "vtex.myuser-io@2.4.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.react-portal@0.3.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-customers-graphql@0.11.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.admin-customers@2.1.0": [
+    "vtex.admin-customers-graphql@0.11.0",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.profile-form@3.3.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-errors@0.3.0": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-graphql-ide@3.1.0": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-graphql@1.39.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.settings-server@0.0.7"
+  ],
+  "vtex.admin-graphql@2.11.0": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.settings-server@0.0.7"
+  ],
+  "vtex.admin-home@2.24.1": [
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-iframe-container@1.0.8": [
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-iframe@0.7.0": [
+    "infra:service-node@5"
+  ],
+  "vtex.admin-insights@3.1.6": [
+    "vtex.admin-graphql@2.11.0",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pwa-components@0.4.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-login@1.12.0": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.react-vtexid@4.36.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-logistics@1.10.1": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin-pickup-points@2.0.12",
+    "vtex.logistics-carrier-commons@0.32.1",
+    "vtex.logistics-carrier-graphql@0.25.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-messages@0.3.1": [
+    "infra:service-node@5",
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.catalog-graphql@1.80.6",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-navigation@0.0.3": [
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0"
+  ],
+  "vtex.admin-pages@4.26.0": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.file-manager-graphql@0.2.0",
+    "vtex.file-manager@0.10.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pwa-graphql@1.15.6",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rewriter@1.48.11",
+    "vtex.store@2.99.1",
+    "vtex.styleguide@9.124.2",
+    "vtex.styles-graphql@1.16.1",
+    "vtex.tenant-graphql@0.1.1"
+  ],
+  "vtex.admin-pickup-points@2.0.12": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.country-codes@2.0.1",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-promotions-graphql@0.16.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.admin-promotions@0.19.1": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin-promotions-graphql@0.16.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-search@1.20.8": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin-subscriptions@0.39.0": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin@3.12.0",
+    "vtex.messages@1.60.2",
+    "vtex.orders-graphql@0.19.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.payment-flags@2.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.subscriptions-commons@0.1.2",
+    "vtex.subscriptions-graphql@2.7.5"
+  ],
+  "vtex.admin-suggestions@2.15.0": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin@3.12.0",
+    "vtex.channels-components@5.4.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.paginated-table@0.10.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2",
+    "vtex.suggestions-graphql@7.0.1"
+  ],
+  "vtex.admin@1.18.2": [
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin-iframe@0.7.0",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.billing@0.14.1",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.styleguide@8.73.11"
+  ],
+  "vtex.admin@2.3.0": [
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin-iframe@0.7.0",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.admin@3.12.0": [
+    "vtex.admin-graphql@2.11.0",
+    "vtex.admin-iframe-container@1.0.8",
+    "vtex.admin-iframe@0.7.0",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.app-test-lighthouse@0.0.4": [
+    "infra:service-node@5",
+    "vtex.lighthouse@0.1.5-beta.0"
+  ],
+  "vtex.apps-graphql@2.5.1": [
+    "infra:service-node@3",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.apps-graphql@3.1.0": [
+    "infra:service-node@5",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.asset-server@0.13.8": [
+    "infra:service-node@6"
+  ],
+  "vtex.audit-io-graphql@0.1.9": [
+    "infra:service-node@3",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.audit-io@0.1.4": [
+    "vtex.admin-graphql@1.39.1",
+    "vtex.admin@2.3.0",
+    "vtex.audit-io-graphql@0.1.9",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.auth-admin@3.2.0": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.auth-server@0.13.1": [
+    "infra:service-node@3"
+  ],
+  "vtex.authentication-session@0.3.2": [
+    "infra:service-dotnet@0",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.billing@0.14.1": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.blog-interfaces@0.1.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.breadcrumb@1.8.6": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.search-page-context@0.0.3",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.broadcaster@0.7.5": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.builder-hub@0.261.3": [
+    "infra:service-node@6",
+    "vtex.dotnet-builder@0.11.0",
+    "vtex.file-manager@0.10.0"
+  ],
+  "vtex.carousel@2.12.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.slider@0.8.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.cartman@0.2.9": [
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.catalog-api-proxy@0.9.0": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.catalog-graphql@1.80.6": [
+    "infra:service-node@6",
+    "vtex.admin-graphql@1.39.1",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.category-menu@2.14.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.use-svg@1.0.1"
+  ],
+  "vtex.channels-components@4.6.1": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.channels-components@5.4.0": [
+    "vtex.messages@1.60.2",
+    "vtex.react-portal@0.3.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.channels-graphql@4.14.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.checkout-graphql@0.36.5": [
+    "infra:service-node@6",
+    "vtex.country-data-settings@0.2.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.checkout-resources@0.32.0": [
+    "vtex.apps-graphql@2.5.1",
+    "vtex.checkout-graphql@0.36.5",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.gateway-graphql@1.0.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.checkout-session@0.3.2": [
+    "infra:service-dotnet@0",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.checkout-summary@0.16.0": [
+    "vtex.coupon@0.10.1",
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.formatted-price@0.4.0",
+    "vtex.messages@1.60.2",
+    "vtex.order-coupon@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-drawer@0.12.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.checkout-ui-settings-server@0.2.1": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.checkout@0.6.0": [
+    "infra:service-node@3",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.ci-auth@0.0.2": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.tester-hub@0.6.0"
+  ],
+  "vtex.ci-github@3.0.0": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.builder-hub@0.261.3",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.colossus-legacy-proxy@2.3.3": [
+    "infra:service-node@6"
+  ],
+  "vtex.country-codes@1.1.2": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.country-codes@2.0.1": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.country-data-settings@0.2.0": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.coupon@0.10.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.credit-control-session@1.1.2": [
+    "infra:service-dotnet@0",
+    "vtex.profile-session@0.3.2",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.critical-css-extractor@0.4.0": [
+    "infra:service-node-browser@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.css-handles@0.4.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.cypress-e2e-worker@0.3.1": [
+    "infra:service-node-cypress@6"
+  ],
+  "vtex.cypress-example@0.0.0+build1594329112": [
+    "infra:service-node@6",
+    "vtex.tester-hub@0.6.0"
+  ],
+  "vtex.developer-docs-integration@0.5.0": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.device-detector@0.2.4": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.docs-graphql@0.5.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4",
+    "vtex.settings-server@0.0.7"
+  ],
+  "vtex.dotnet-builder@0.11.0": [
+    "infra:service-dotnet-sdk@2"
+  ],
+  "vtex.dotnet-messenger-sender@0.1.7": [
+    "infra:service-dotnet@0",
+    "vtex.messenger-core@0.1.9"
+  ],
+  "vtex.evolution-manager-graphql@0.12.1": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.file-manager-graphql@0.2.0": [
+    "infra:service-node@3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.file-manager@0.10.0",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.file-manager@0.10.0": [
+    "infra:service-dotnet@0"
+  ],
+  "vtex.flex-layout@0.15.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.store-components@3.120.4"
+  ],
+  "vtex.format-currency@0.1.4": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.formatted-price@0.4.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.gateway-graphql@1.0.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.google-apis-proxy@0.10.2": [
+    "infra:service-node@6"
+  ],
+  "vtex.google-search-console@1.0.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pixel-interfaces@1.1.1",
+    "vtex.pixel-server@0.17.3"
+  ],
+  "vtex.google-shopping-app-api@0.13.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.google-shopping@2.15.22": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.google-shopping-app-api@0.13.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-interfaces@1.1.1",
+    "vtex.pixel-server@0.17.3",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.google-tag-manager@2.4.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-interfaces@1.1.1",
+    "vtex.pixel-server@0.17.3",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.graphql-example@0.2.0": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.graphql-server@1.62.4": [
+    "infra:service-node@6"
+  ],
+  "vtex.help-search@0.15.0": [
+    "infra:service-node@5",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.impersonate-session@0.3.4": [
+    "infra:service-dotnet@0",
+    "vtex.authentication-session@0.3.2",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.lean-shipping-calculator@0.2.10": [
+    "vtex.address-form@3.12.4",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.legacy-settings@0.1.5": [
+    "infra:service-node@2",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.lever-mindsight-integration@2.1.6": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.graphql-example@0.2.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.lighthouse@0.1.5-beta.0": [
+    "infra:service-node-browser@6",
+    "vtex.billing@0.14.1",
+    "vtex.builder-hub@0.261.3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.slack-notification@0.5.3"
+  ],
+  "vtex.list-context@0.1.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.locale-switcher@0.5.5": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-icons@0.17.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.tenant-graphql@0.1.1"
+  ],
+  "vtex.login@2.34.9": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.react-portal@0.3.0",
+    "vtex.react-vtexid@4.36.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-icons@0.17.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.logistics-carrier-commons@0.32.1": [
+    "vtex.address-form@4.6.3",
+    "vtex.country-codes@2.0.1",
+    "vtex.logistics-carrier-graphql@0.25.0",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.logistics-carrier-graphql@0.25.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.menu@2.24.4": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.mercadolibre-graphql@1.0.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.mercadolibre@2.1.1": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.admin@3.12.0",
+    "vtex.mercadolibre-graphql@1.0.1",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.messages-templates@0.10.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.render-ssr@2.14.7",
+    "vtex.styleguide@8.73.11",
+    "vtex.styles-graphql@1.16.1"
+  ],
+  "vtex.messages@1.60.2": [
+    "infra:service-node@6",
+    "vtex.google-apis-proxy@0.10.2",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.messenger-core@0.1.9": [
+    "infra:service-dotnet@0"
+  ],
+  "vtex.minicart@2.50.0": [
+    "vtex.checkout-resources@0.32.0",
+    "vtex.checkout-summary@0.16.0",
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.messages@1.60.2",
+    "vtex.order-items@0.7.6",
+    "vtex.order-manager@0.8.5",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-list@0.20.2",
+    "vtex.product-summary@2.57.1",
+    "vtex.react-portal@0.3.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rich-text@0.10.1",
+    "vtex.sandbox@0.5.0",
+    "vtex.store-components@3.120.4",
+    "vtex.store-drawer@0.12.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.styles-graphql@1.16.1"
+  ],
+  "vtex.modal-layout@0.6.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.modal@0.2.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.my-account-commons@0.12.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.styleguide@8.73.11"
+  ],
+  "vtex.my-account-commons@1.4.3": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.my-account@0.32.5": [
+    "infra:service-node@5",
+    "vtex.address-form@3.12.4",
+    "vtex.country-codes@1.1.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@0.12.1",
+    "vtex.my-cards@0.12.1",
+    "vtex.my-orders-app@2.11.13",
+    "vtex.profile-form@2.7.2",
+    "vtex.react-vtexid@3.2.2",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@8.73.11"
+  ],
+  "vtex.my-account@1.15.0": [
+    "infra:service-node@5",
+    "vtex.address-form@4.6.3",
+    "vtex.country-codes@2.0.1",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@1.4.3",
+    "vtex.my-cards@1.9.1",
+    "vtex.my-orders-app@3.6.3",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.profile-form@3.3.2",
+    "vtex.react-vtexid@4.36.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-messages@0.3.2",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.my-cards-graphql@2.1.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.my-cards@0.12.1": [
+    "vtex.address-form@3.12.4",
+    "vtex.my-account-commons@0.12.1",
+    "vtex.my-cards-graphql@2.1.0",
+    "vtex.payment-flags@1.6.0",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@8.73.11"
+  ],
+  "vtex.my-cards@1.9.1": [
+    "vtex.address-form@4.6.3",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@1.4.3",
+    "vtex.my-cards-graphql@2.1.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.payment-flags@2.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.my-orders-app@0.3.2": [
+    "infra:service-node@3",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.my-orders-app@2.11.13": [
+    "infra:service-node@5",
+    "vtex.address-form@3.12.4",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@0.12.1",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.styleguide@8.73.11",
+    "vtex.totalizer-translator@1.0.0"
+  ],
+  "vtex.my-orders-app@3.6.3": [
+    "vtex.address-form@4.6.3",
+    "vtex.css-handles@0.4.2",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@1.4.3",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2",
+    "vtex.totalizer-translator@2.1.0"
+  ],
+  "vtex.myuser-io@2.4.0": [
+    "infra:service-node@5",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.react-vtexid@4.36.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.native-types@0.7.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.node-service-stub@0.0.1-beta": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.notification-generator@0.5.3": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.slack-notification@0.5.3"
+  ],
+  "vtex.oauth-tester-ui@1.0.5": [
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store@2.99.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.oauth-tester@1.2.0": [
+    "infra:service-dotnet@2"
+  ],
+  "vtex.omnishipping@1.11.3": [
+    "vtex.address-form@3.12.4",
+    "vtex.checkout@0.6.0",
+    "vtex.country-codes@1.1.2",
+    "vtex.lean-shipping-calculator@0.2.10",
+    "vtex.pickup-points-modal@3.2.3",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.shipping-estimate-translator@1.1.4",
+    "vtex.shipping-manager@0.6.3"
+  ],
+  "vtex.open-graph@1.2.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.order-auth-graphql@0.2.1": [
+    "infra:service-node@3",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.order-auth@1.0.6": [
+    "vtex.admin-navigation@0.0.3",
+    "vtex.messages@1.60.2",
+    "vtex.order-auth-graphql@0.2.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.order-coupon@0.7.1": [
+    "vtex.checkout-resources@0.32.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.order-manager@0.8.5",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.order-details@1.1.0": [
+    "vtex.address-form@4.6.3",
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.my-account-commons@1.4.3",
+    "vtex.profile-form@3.3.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.shipping-estimate-translator@2.2.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.order-items@0.7.6": [
+    "vtex.checkout-graphql@0.36.5",
+    "vtex.checkout-resources@0.32.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.order-manager@0.8.5",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.order-manager@0.8.5": [
+    "vtex.checkout-graphql@0.36.5",
+    "vtex.checkout-resources@0.32.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.order-placed-graphql@1.11.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.order-placed@1.7.3": [
+    "vtex.address-form@4.6.3",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.order-details@1.1.0",
+    "vtex.order-placed-graphql@1.11.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.profile-form@3.3.2",
+    "vtex.pwa-components@0.4.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.shipping-estimate-translator@2.2.1",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.totalizer-translator@2.1.0"
+  ],
+  "vtex.order-sms-notification@0.0.9": [
+    "infra:service-node@3",
+    "vtex.legacy-settings@0.1.5",
+    "vtex.sms-provider@0.6.2"
+  ],
+  "vtex.orders-broadcast@0.2.2": [
+    "infra:service-node@6"
+  ],
+  "vtex.orders-graphql@0.19.0": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.pages-graphql@1.29.2": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.pages-graphql@2.101.2": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.rewriter@1.48.11",
+    "vtex.settings-server@0.0.7",
+    "vtex.store-graphql@2.127.0"
+  ],
+  "vtex.paginated-table@0.10.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.payment-flags@1.6.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.payment-flags@2.5.0": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.pickup-points-modal@3.2.3": [
+    "vtex.address-form@3.12.4",
+    "vtex.country-codes@1.1.2",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.shipping-estimate-translator@1.1.4"
+  ],
+  "vtex.pixel-interfaces@1.1.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0"
+  ],
+  "vtex.pixel-manager@1.1.4": [
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.pixel-server@0.17.3": [
+    "infra:service-node@6",
+    "vtex.settings-server@0.0.7"
+  ],
+  "vtex.product-bookmark-interfaces@1.0.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-context@0.8.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-customizer@2.8.3": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.product-details@1.19.10",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.product-details@1.19.10": [
+    "vtex.breadcrumb@1.8.6",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-graphql@2.127.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.product-gifts@0.2.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.rich-text@0.10.1",
+    "vtex.search-graphql@0.29.0",
+    "vtex.store-image@0.4.5"
+  ],
+  "vtex.product-identifier@0.1.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.product-summary-context@0.4.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-kit@1.10.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-summary@2.57.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.product-list-context@0.3.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-list@0.20.2": [
+    "vtex.checkout-graphql@0.36.5",
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.formatted-price@0.4.0",
+    "vtex.messages@1.60.2",
+    "vtex.order-manager@0.8.5",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2",
+    "vtex.styles-graphql@1.16.1"
+  ],
+  "vtex.product-price@1.3.2": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-quantity@1.4.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.product-summary-context@0.4.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.product-review-interfaces@1.0.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-specification-badges@0.1.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-summary-context@0.4.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.product-summary@2.57.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.list-context@0.1.1",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-context@0.8.0",
+    "vtex.product-list-context@0.3.0",
+    "vtex.product-specification-badges@0.1.1",
+    "vtex.product-summary-context@0.4.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.store-components@3.120.4",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.profile-form@2.7.2": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.profile-form@3.3.2": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.profile-session@0.3.2": [
+    "infra:service-dotnet@0",
+    "vtex.authentication-session@0.3.2",
+    "vtex.impersonate-session@0.3.4",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.push-server@0.6.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4",
+    "vtex.store-graphql@2.127.0"
+  ],
+  "vtex.pwa-components@0.4.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pwa-graphql@1.15.6",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.pwa-graphql@1.15.6": [
+    "infra:service-node@5",
+    "vtex.checkout-session@0.3.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.file-manager-graphql@0.2.0",
+    "vtex.file-manager@0.10.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.push-server@0.6.1",
+    "vtex.rnb-session@0.2.2",
+    "vtex.store-session@0.2.3"
+  ],
+  "vtex.react-portal@0.3.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.react-vtexid@3.2.2": [
+    "infra:service-node@3",
+    "vtex.graphql-server@1.62.4",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.styleguide@8.73.11"
+  ],
+  "vtex.react-vtexid@4.36.0": [
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.render-runtime@7.42.0": [
+    "vtex.pages-graphql@1.29.2",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.render-runtime@8.111.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.render-server@7.44.3": [
+    "infra:service-node@5",
+    "vtex.asset-server@0.13.8",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.pages-graphql@1.29.2",
+    "vtex.render-ssr@2.14.7"
+  ],
+  "vtex.render-server@8.129.1": [
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.critical-css-extractor@0.4.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-server@0.17.3",
+    "vtex.render-ssr@2.14.7",
+    "vtex.render-to-string@1.3.4",
+    "vtex.search-graphql@0.29.0",
+    "vtex.store-session@0.2.3",
+    "vtex.styles-graphql@1.16.1"
+  ],
+  "vtex.render-ssr@2.14.7": [
+    "infra:service-node@6",
+    "vtex.asset-server@0.13.8"
+  ],
+  "vtex.render-to-string@1.3.4": [
+    "infra:service-node@6"
+  ],
+  "vtex.request-capture@2.1.4": [
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-interfaces@1.1.1",
+    "vtex.pixel-server@0.17.3",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.responsive-values@0.2.0": [
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.reviews-and-ratings@1.6.2": [
+    "infra:service-dotnet@1",
+    "vtex.admin-navigation@0.0.3",
+    "vtex.channels-components@4.6.1",
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.paginated-table@0.10.0",
+    "vtex.product-context@0.8.0",
+    "vtex.product-review-interfaces@1.0.2",
+    "vtex.product-summary@2.57.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.search-graphql@0.29.0",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store@2.99.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.rewriter@1.48.11": [
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.rich-text@0.10.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0"
+  ],
+  "vtex.rnb-session@0.2.2": [
+    "infra:service-dotnet@0",
+    "vtex.profile-session@0.3.2",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.routes-bootstrap@0.1.1": [
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.catalog-graphql@1.80.6",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.rewriter@1.48.11"
+  ],
+  "vtex.sandbox@0.5.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-resources@0.64.0"
+  ],
+  "vtex.search-graphql@0.29.0": [
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.search-page-context@0.0.3": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.search-resolver@0.9.0": [
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.rewriter@1.48.11",
+    "vtex.search-graphql@0.29.0"
+  ],
+  "vtex.search-result@3.66.0": [
+    "vtex.blog-interfaces@0.1.0",
+    "vtex.breadcrumb@1.8.6",
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-list-context@0.3.0",
+    "vtex.product-summary@2.57.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.rich-text@0.10.1",
+    "vtex.search-page-context@0.0.3",
+    "vtex.shelf@1.39.1",
+    "vtex.shop-review-interfaces@0.3.0",
+    "vtex.store-components@3.120.4",
+    "vtex.store-drawer@0.12.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.tab-layout@0.4.0"
+  ],
+  "vtex.service-example-teste-evolution@0.0.8": [
+    "infra:service-node@5",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.service-example@0.1.0": [
+    "infra:service-node@6",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.session@0.4.4": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3"
+  ],
+  "vtex.settings-server@0.0.7": [
+    "infra:service-node@5"
+  ],
+  "vtex.shelf@1.39.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-context@0.8.0",
+    "vtex.product-list-context@0.3.0",
+    "vtex.product-summary@2.57.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.search-graphql@0.29.0",
+    "vtex.slider@0.8.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-icons@0.17.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.shipping-estimate-translator@1.1.4": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.shipping-estimate-translator@2.2.1": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.shipping-manager@0.6.3": [
+    "vtex.address-form@3.12.4",
+    "vtex.checkout@0.6.0",
+    "vtex.country-codes@1.1.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.lean-shipping-calculator@0.2.10",
+    "vtex.pickup-points-modal@3.2.3",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.shipping-estimate-translator@1.1.4"
+  ],
+  "vtex.shipping-preview@0.8.12": [
+    "vtex.address-form@3.12.4",
+    "vtex.checkout@0.6.0",
+    "vtex.country-codes@1.1.2",
+    "vtex.lean-shipping-calculator@0.2.10",
+    "vtex.omnishipping@1.11.3",
+    "vtex.pickup-points-modal@3.2.3",
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3",
+    "vtex.shipping-estimate-translator@1.1.4",
+    "vtex.shipping-manager@0.6.3"
+  ],
+  "vtex.shop-review-interfaces@0.3.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.slack-notification@0.5.3": [
+    "infra:service-node@6",
+    "vtex.builder-hub@0.261.3",
+    "vtex.docs-graphql@0.5.0"
+  ],
+  "vtex.slider-layout@0.11.2": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.list-context@0.1.1",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.slider@0.8.1": [
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.sms-messenger-sender@0.1.0": [
+    "infra:service-dotnet@0",
+    "vtex.messenger-core@0.1.9"
+  ],
+  "vtex.sms-provider@0.6.2": [
+    "infra:service-node@6"
+  ],
+  "vtex.smtp-messenger-sender@0.1.0": [
+    "infra:service-dotnet@0",
+    "vtex.messenger-core@0.1.9"
+  ],
+  "vtex.sno@0.0.2": [
+    "infra:service-node@5"
+  ],
+  "vtex.social-selling@0.7.1": [
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.sse-server@0.3.1": [
+    "infra:service-node@5"
+  ],
+  "vtex.stack-layout@0.1.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.sticky-layout@0.3.3": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.store-components@3.120.4": [
+    "vtex.address-form@4.6.3",
+    "vtex.apps-graphql@2.5.1",
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.format-currency@0.1.4",
+    "vtex.messages@1.60.2",
+    "vtex.modal-layout@0.6.1",
+    "vtex.modal@0.2.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.react-portal@0.3.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.rich-text@0.10.1",
+    "vtex.search-graphql@0.29.0",
+    "vtex.shipping-estimate-translator@2.2.1",
+    "vtex.slider-layout@0.11.2",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0",
+    "vtex.store-image@0.4.5",
+    "vtex.store-resources@0.64.0",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.store-drawer@0.12.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.responsive-values@0.2.0",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.store-footer@2.20.1": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.menu@2.24.4",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rich-text@0.10.1",
+    "vtex.shop-review-interfaces@0.3.0",
+    "vtex.store-components@3.120.4",
+    "vtex.store-icons@0.17.0"
+  ],
+  "vtex.store-graphql@2.127.0": [
+    "infra:service-node@5",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.file-manager@0.10.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.store-header@2.25.5": [
+    "vtex.category-menu@2.14.0",
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.locale-switcher@0.5.5",
+    "vtex.login@2.34.9",
+    "vtex.menu@2.24.4",
+    "vtex.messages@1.60.2",
+    "vtex.minicart@2.50.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rich-text@0.10.1",
+    "vtex.sandbox@0.5.0",
+    "vtex.store-components@3.120.4",
+    "vtex.store-drawer@0.12.1",
+    "vtex.store-icons@0.17.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.telemarketing@2.10.2"
+  ],
+  "vtex.store-icons@0.17.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styles-graphql@1.16.1"
+  ],
+  "vtex.store-image@0.4.5": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.list-context@0.1.1",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.slider-layout@0.11.2"
+  ],
+  "vtex.store-indexer@0.16.1": [
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.catalog-graphql@1.80.6",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.rewriter@1.48.11",
+    "vtex.search-graphql@0.29.0"
+  ],
+  "vtex.store-link@0.6.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.modal-layout@0.6.1",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-context@0.8.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.store-messages@0.3.2": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2"
+  ],
+  "vtex.store-resources@0.64.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.pwa-graphql@1.15.6",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.search-graphql@0.29.0",
+    "vtex.store-graphql@2.127.0"
+  ],
+  "vtex.store-session@0.2.3": [
+    "infra:service-dotnet@0",
+    "vtex.profile-session@0.3.2",
+    "vtex.session@0.4.4"
+  ],
+  "vtex.store-sitemap@1.11.1": [
+    "gocommerce.sitemap-app@1.2.1",
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.rewriter@1.48.11"
+  ],
+  "vtex.store-sitemap@2.9.1": [
+    "gocommerce.sitemap-app@1.2.1",
+    "infra:service-node@6",
+    "vtex.catalog-api-proxy@0.9.0",
+    "vtex.catalog-graphql@1.80.6",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.graphql-server@1.62.4",
+    "vtex.messages@1.60.2",
+    "vtex.rewriter@1.48.11",
+    "vtex.routes-bootstrap@0.1.1"
+  ],
+  "vtex.store-theme@3.37.1": [
+    "vtex.add-to-cart-button@0.13.3",
+    "vtex.breadcrumb@1.8.6",
+    "vtex.carousel@2.12.1",
+    "vtex.checkout-summary@0.16.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.flex-layout@0.15.0",
+    "vtex.locale-switcher@0.5.5",
+    "vtex.login@2.34.9",
+    "vtex.menu@2.24.4",
+    "vtex.minicart@2.50.0",
+    "vtex.modal-layout@0.6.1",
+    "vtex.my-account@1.15.0",
+    "vtex.order-placed@1.7.3",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.product-bookmark-interfaces@1.0.1",
+    "vtex.product-customizer@2.8.3",
+    "vtex.product-details@1.19.10",
+    "vtex.product-gifts@0.2.1",
+    "vtex.product-identifier@0.1.2",
+    "vtex.product-kit@1.10.1",
+    "vtex.product-list@0.20.2",
+    "vtex.product-price@1.3.2",
+    "vtex.product-quantity@1.4.1",
+    "vtex.product-review-interfaces@1.0.2",
+    "vtex.product-specification-badges@0.1.1",
+    "vtex.product-summary@2.57.1",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.reviews-and-ratings@1.6.2",
+    "vtex.rich-text@0.10.1",
+    "vtex.search-result@3.66.0",
+    "vtex.shelf@1.39.1",
+    "vtex.slider-layout@0.11.2",
+    "vtex.slider@0.8.1",
+    "vtex.stack-layout@0.1.0",
+    "vtex.sticky-layout@0.3.3",
+    "vtex.store-components@3.120.4",
+    "vtex.store-drawer@0.12.1",
+    "vtex.store-footer@2.20.1",
+    "vtex.store-header@2.25.5",
+    "vtex.store-icons@0.17.0",
+    "vtex.store-image@0.4.5",
+    "vtex.store-link@0.6.0",
+    "vtex.store-sitemap@1.11.1",
+    "vtex.store@2.99.1",
+    "vtex.styleguide@9.124.2",
+    "vtex.styles-graphql@1.16.1",
+    "vtex.telemarketing@2.10.2"
+  ],
+  "vtex.store@2.99.1": [
+    "vtex.blog-interfaces@0.1.0",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.login@2.34.9",
+    "vtex.messages@1.60.2",
+    "vtex.my-account@1.15.0",
+    "vtex.native-types@0.7.1",
+    "vtex.open-graph@1.2.0",
+    "vtex.order-items@0.7.6",
+    "vtex.order-manager@0.8.5",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.pixel-interfaces@1.1.1",
+    "vtex.pixel-manager@1.1.4",
+    "vtex.product-context@0.8.0",
+    "vtex.product-review-interfaces@1.0.2",
+    "vtex.product-specification-badges@0.1.1",
+    "vtex.pwa-components@0.4.1",
+    "vtex.pwa-graphql@1.15.6",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.rich-text@0.10.1",
+    "vtex.search-result@3.66.0",
+    "vtex.store-footer@2.20.1",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-header@2.25.5",
+    "vtex.store-indexer@0.16.1",
+    "vtex.store-resources@0.64.0",
+    "vtex.structured-data@0.4.0",
+    "vtex.styleguide@9.124.2",
+    "vtex.telemarketing@2.10.2"
+  ],
+  "vtex.structured-data@0.4.0": [
+    "vtex.docs-graphql@0.5.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.styleguide@8.73.11": [
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.styleguide@9.124.2": [
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.styles-graphql@1.16.1": [
+    "infra:service-node@6",
+    "vtex.graphql-server@1.62.4",
+    "vtex.settings-server@0.0.7"
+  ],
+  "vtex.subscriptions-commons@0.1.2": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.subscriptions-graphql@2.7.5": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.suggestions-graphql@7.0.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.tab-layout@0.4.0": [
+    "vtex.css-handles@0.4.2",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.native-types@0.7.1",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.telemarketing@2.10.2": [
+    "vtex.css-handles@0.4.2",
+    "vtex.device-detector@0.2.4",
+    "vtex.docs-graphql@0.5.0",
+    "vtex.messages@1.60.2",
+    "vtex.pages-graphql@2.101.2",
+    "vtex.react-portal@0.3.0",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1",
+    "vtex.store-components@3.120.4",
+    "vtex.store-graphql@2.127.0",
+    "vtex.store-icons@0.17.0",
+    "vtex.store-resources@0.64.0",
+    "vtex.store-session@0.2.3",
+    "vtex.styleguide@9.124.2"
+  ],
+  "vtex.tenant-graphql@0.1.1": [
+    "infra:service-node@5",
+    "vtex.graphql-server@1.62.4"
+  ],
+  "vtex.tester-e2e-cypress@0.4.0": [
+    "infra:service-node@6",
+    "vtex.cypress-e2e-worker@0.3.1"
+  ],
+  "vtex.tester-hub@0.6.0": [
+    "infra:service-node@6",
+    "vtex.tester-e2e-cypress@0.4.0"
+  ],
+  "vtex.toolbelt-telemetry@0.1.3": [
+    "infra:service-node@6"
+  ],
+  "vtex.totalizer-translator@1.0.0": [
+    "vtex.render-runtime@7.42.0",
+    "vtex.render-server@7.44.3"
+  ],
+  "vtex.totalizer-translator@2.1.0": [
+    "vtex.messages@1.60.2",
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.transform-handlebars-email@0.1.12": [
+    "infra:service-dotnet@0",
+    "vtex.messenger-core@0.1.9"
+  ],
+  "vtex.transform-handlebars-sms@0.1.4": [
+    "infra:service-dotnet@0",
+    "vtex.messenger-core@0.1.9"
+  ],
+  "vtex.transform-render-email@0.1.7": [
+    "infra:service-dotnet@0",
+    "vtex.messages-templates@0.10.1",
+    "vtex.messenger-core@0.1.9",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.transform-render-sms@0.1.7": [
+    "infra:service-dotnet@0",
+    "vtex.messages-templates@0.10.1",
+    "vtex.messenger-core@0.1.9",
+    "vtex.render-server@8.129.1"
+  ],
+  "vtex.use-svg@1.0.1": [
+    "vtex.render-runtime@8.111.0",
+    "vtex.render-server@8.129.1"
+  ]
+}
