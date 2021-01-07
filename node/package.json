@@ -3,10 +3,10 @@
     "co-body": "^6.0.0"
   },
   "devDependencies": {
-    "@vtex/api": "6.31.1",
+    "@vtex/api": "6.37.1",
     "@types/co-body": "0.0.3",
     "@types/node": "12.x",
-    "typescript": "3.8.3"
+    "typescript": "3.9.7"
   },
   "scripts": {
     "lint": "tsc --noEmit --pretty && tslint -c tslint.json --fix './**/*.ts'"

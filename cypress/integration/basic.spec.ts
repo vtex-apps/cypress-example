@@ -12,7 +12,7 @@ describe('Basic test', () => {
       .type('bell{enter}')
 
     // wait until search results are loaded
-    cy.get('#search-result-anchor', { timeout: 10000 })
+    cy.get('#seoopr', { timeout: 10000 })
 
     // find Custom Bell product summary
     cy.get('section.vtex-product-summary-2-x-container')

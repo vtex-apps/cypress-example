@@ -12,6 +12,8 @@ export async function onSpecComplete(ctx: ServiceContext, next: () => Promise<an
     },
   } = ctx
 
+  console.log('EVIDENCE ID:', ctx.headers['x-vtex-evidence'])
+
   const specReport = await parse.json(ctx.req) as SpecReport
 
   const testsByState: { [state: string]: string[] } = {}
@@ -40,6 +42,7 @@ export async function onTestComplete(ctx: ServiceContext, next: () => Promise<an
       },
     },
   } = ctx
+
   const app = await parse.json(ctx.req) as AppReport
 
   const specsByState: { [state: string]: string[] } = {}
